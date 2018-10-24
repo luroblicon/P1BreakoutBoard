@@ -1,0 +1,693 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File href="../Breakout1v1%20(html)">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../Breakout1v1%20(html)");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link="#0563C1" vlink="#954F72">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1309 style='border-collapse:
+ collapse;table-layout:fixed;width:983pt'>
+ <col width=32 style='mso-width-source:userset;mso-width-alt:1170;width:24pt'>
+ <col width=186 style='mso-width-source:userset;mso-width-alt:6802;width:140pt'>
+ <col width=220 style='mso-width-source:userset;mso-width-alt:8045;width:165pt'>
+ <col width=225 style='mso-width-source:userset;mso-width-alt:8228;width:169pt'>
+ <col width=255 style='mso-width-source:userset;mso-width-alt:9325;width:191pt'>
+ <col width=27 style='mso-width-source:userset;mso-width-alt:987;width:20pt'>
+ <col width=38 style='mso-width-source:userset;mso-width-alt:1389;width:29pt'>
+ <col width=85 style='mso-width-source:userset;mso-width-alt:3108;width:64pt'>
+ <col width=88 style='mso-width-source:userset;mso-width-alt:3218;width:66pt'>
+ <col width=70 style='mso-width-source:userset;mso-width-alt:2560;width:53pt'>
+ <col width=83 style='mso-width-source:userset;mso-width-alt:3035;width:62pt'>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 colspan=5 width=918 style='height:15.0pt;mso-ignore:
+  colspan;width:689pt'>Partlist exported from
+  C:/Users/luisr/Documents/Elselabs/Photon/P1 module/Dev board/EAGLE
+  files/Breakout1v1.sch at 2018-08-03 15:32</td>
+  <td width=27 style='width:20pt'></td>
+  <td width=38 style='width:29pt'></td>
+  <td width=85 style='width:64pt'></td>
+  <td width=88 style='width:66pt'></td>
+  <td width=70 style='width:53pt'></td>
+  <td width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 colspan=11 style='height:15.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl67 width=32 style='height:15.0pt;width:24pt'>Part</td>
+  <td class=xl67 width=186 style='width:140pt'>Value</td>
+  <td class=xl67 width=220 style='width:165pt'>Device</td>
+  <td class=xl67 width=225 style='width:169pt'>Package</td>
+  <td class=xl67 width=255 style='width:191pt'>Description</td>
+  <td class=xl67 width=27 style='width:20pt'>MF</td>
+  <td class=xl67 width=38 style='width:29pt'>MPN</td>
+  <td class=xl67 width=85 style='width:64pt'>OC_FARNELL</td>
+  <td class=xl67 width=88 style='width:66pt'>OC_NEWARK</td>
+  <td class=xl67 width=70 style='width:53pt'>PROD_ID</td>
+  <td class=xl67 width=83 style='width:62pt'>SPICEPREFIX</td>
+ </tr>
+ <tr class=xl69 height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=32 style='height:15.0pt;width:24pt'>C1</td>
+  <td class=xl68 width=186 style='width:140pt'>10uF</td>
+  <td class=xl68 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl68 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl68 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl68 width=27 style='width:20pt'>X</td>
+  <td class=xl68 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl68 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl68 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl68 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl68 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl69 height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=32 style='height:15.0pt;width:24pt'>C2</td>
+  <td class=xl68 width=186 style='width:140pt'>10uF</td>
+  <td class=xl68 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl68 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl68 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl68 width=27 style='width:20pt'>X</td>
+  <td class=xl68 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl68 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl68 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl68 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl68 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C3</td>
+  <td class=xl70 width=186 style='width:140pt'>0.1uF</td>
+  <td class=xl70 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl70 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl70 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl70 width=27 style='width:20pt'>X</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C4</td>
+  <td class=xl70 width=186 style='width:140pt'>0.1uF</td>
+  <td class=xl70 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl70 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl70 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl70 width=27 style='width:20pt'>X</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C5</td>
+  <td class=xl70 width=186 style='width:140pt'>0.1uF</td>
+  <td class=xl70 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl70 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl70 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl70 width=27 style='width:20pt'>X</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C6</td>
+  <td class=xl70 width=186 style='width:140pt'>0.1uF</td>
+  <td class=xl70 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl70 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl70 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl70 width=27 style='width:20pt'>X</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl69 height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=32 style='height:15.0pt;width:24pt'>C7</td>
+  <td class=xl68 width=186 style='width:140pt'>10uF</td>
+  <td class=xl68 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl68 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl68 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl68 width=27 style='width:20pt'>X</td>
+  <td class=xl68 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl68 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl68 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl68 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl68 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl69 height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=32 style='height:15.0pt;width:24pt'>C8</td>
+  <td class=xl68 width=186 style='width:140pt'>10uF</td>
+  <td class=xl68 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl68 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl68 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl68 width=27 style='width:20pt'>X</td>
+  <td class=xl68 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl68 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl68 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl68 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl68 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C11</td>
+  <td class=xl70 width=186 style='width:140pt'>0.1uF</td>
+  <td class=xl70 width=220 style='width:165pt'>CAP0805</td>
+  <td class=xl70 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl70 width=255 style='width:191pt'>Capacitor</td>
+  <td class=xl70 width=27 style='width:20pt'>X</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl69 height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=32 style='height:15.0pt;width:24pt'>C17</td>
+  <td class=xl68 width=186 style='width:140pt'>106/16</td>
+  <td class=xl68 width=220 style='width:165pt'>C-EUC0805</td>
+  <td class=xl68 width=225 style='width:169pt'>C0805</td>
+  <td class=xl68 width=255 style='width:191pt'>CAPACITOR, European symbol</td>
+  <td class=xl68 width=27 style='width:20pt'>X</td>
+  <td class=xl68 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl68 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl68 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl68 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl68 width=83 style='width:62pt'>C</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C18</td>
+  <td class=xl70 width=186 style='width:140pt'>104/50</td>
+  <td class=xl70 width=220 style='width:165pt'>C-EUC0603</td>
+  <td class=xl70 width=225 style='width:169pt'>C0603</td>
+  <td class=xl70 width=255 style='width:191pt'>CAPACITOR, European symbol</td>
+  <td class=xl70 width=27 style='width:20pt'>X</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>C</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C19</td>
+  <td class=xl70 width=186 style='width:140pt'>104/50</td>
+  <td class=xl70 width=220 style='width:165pt'>C-EUC0603</td>
+  <td class=xl70 width=225 style='width:169pt'>C0603</td>
+  <td class=xl70 width=255 style='width:191pt'>CAPACITOR, European symbol</td>
+  <td class=xl70 width=27 style='width:20pt'>X</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>C</td>
+ </tr>
+ <tr class=xl69 height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=32 style='height:15.0pt;width:24pt'>C20</td>
+  <td class=xl68 width=186 style='width:140pt'>106/16</td>
+  <td class=xl68 width=220 style='width:165pt'>C-EUC0805</td>
+  <td class=xl68 width=225 style='width:169pt'>C0805</td>
+  <td class=xl68 width=255 style='width:191pt'>CAPACITOR, European symbol</td>
+  <td class=xl68 width=27 style='width:20pt'>X</td>
+  <td class=xl68 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl68 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl68 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl68 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl68 width=83 style='width:62pt'>C</td>
+ </tr>
+ <tr class=xl73 height=20 style='height:15.0pt'>
+  <td height=20 class=xl72 width=32 style='height:15.0pt;width:24pt'>C21</td>
+  <td class=xl72 align=right width=186 style='width:140pt'>101</td>
+  <td class=xl72 width=220 style='width:165pt'>C-EUC0603</td>
+  <td class=xl72 width=225 style='width:169pt'>C0603</td>
+  <td class=xl72 width=255 style='width:191pt'>CAPACITOR, European symbol</td>
+  <td class=xl72 width=27 style='width:20pt'>x</td>
+  <td class=xl72 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl72 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl72 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl72 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl72 width=83 style='width:62pt'>C</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C23</td>
+  <td class=xl70 width=186 style='width:140pt'>104/50</td>
+  <td class=xl70 width=220 style='width:165pt'>C-EUC0603</td>
+  <td class=xl70 width=225 style='width:169pt'>C0603</td>
+  <td class=xl70 width=255 style='width:191pt'>CAPACITOR, European symbol</td>
+  <td class=xl70 width=27 style='width:20pt'>x</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>C</td>
+ </tr>
+ <tr class=xl71 height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 width=32 style='height:15.0pt;width:24pt'>C47</td>
+  <td class=xl70 width=186 style='width:140pt'>104/50</td>
+  <td class=xl70 width=220 style='width:165pt'>C-EUC0603</td>
+  <td class=xl70 width=225 style='width:169pt'>C0603</td>
+  <td class=xl70 width=255 style='width:191pt'>CAPACITOR, European symbol</td>
+  <td class=xl70 width=27 style='width:20pt'>x</td>
+  <td class=xl70 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl70 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl70 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl70 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl70 width=83 style='width:62pt'>C</td>
+ </tr>
+ <tr class=xl75 height=20 style='height:15.0pt'>
+  <td height=20 class=xl74 width=32 style='height:15.0pt;width:24pt'>D1</td>
+  <td class=xl74 width=186 style='width:140pt'>&nbsp;</td>
+  <td class=xl74 width=220 style='width:165pt'>LED0603</td>
+  <td class=xl74 width=225 style='width:169pt'>LED-0603</td>
+  <td class=xl74 width=255 style='width:191pt'>LEDs</td>
+  <td class=xl74 width=27 style='width:20pt'>x</td>
+  <td class=xl74 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl74 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl74 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl74 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl74 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl77 height=20 style='height:15.0pt'>
+  <td height=20 class=xl76 width=32 style='height:15.0pt;width:24pt'>D3</td>
+  <td class=xl76 width=186 style='width:140pt'>CLVBA-FKAPLCC</td>
+  <td class=xl76 width=220 style='width:165pt'>CLVBA-FKAPLCC</td>
+  <td class=xl76 width=225 style='width:169pt'>4-PLCC</td>
+  <td class=xl76 width=255 style='width:191pt'>Everlight Red/Green/Blue LED</td>
+  <td class=xl76 width=27 style='width:20pt'>x</td>
+  <td class=xl76 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl76 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl76 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl76 width=70 style='width:53pt'>DIO-12986</td>
+  <td class=xl76 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl75 height=20 style='height:15.0pt'>
+  <td height=20 class=xl74 width=32 style='height:15.0pt;width:24pt'>D4</td>
+  <td class=xl74 width=186 style='width:140pt'>&nbsp;</td>
+  <td class=xl74 width=220 style='width:165pt'>LED0603</td>
+  <td class=xl74 width=225 style='width:169pt'>LED-0603</td>
+  <td class=xl74 width=255 style='width:191pt'>LEDs</td>
+  <td class=xl74 width=27 style='width:20pt'>x</td>
+  <td class=xl74 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl74 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl74 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl74 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl74 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl79 height=20 style='height:15.0pt'>
+  <td height=20 class=xl78 width=32 style='height:15.0pt;width:24pt'>D5</td>
+  <td class=xl78 width=186 style='width:140pt'>DIODE-B240AE-13</td>
+  <td class=xl78 width=220 style='width:165pt'>DIODE-B240AE-13</td>
+  <td class=xl78 width=225 style='width:169pt'>DO-214AC</td>
+  <td class=xl78 width=255 style='width:191pt'>&nbsp;</td>
+  <td class=xl78 width=27 style='width:20pt'>x</td>
+  <td class=xl78 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl78 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl78 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl78 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl78 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl79 height=20 style='height:15.0pt'>
+  <td height=20 class=xl78 width=32 style='height:15.0pt;width:24pt'>D7</td>
+  <td class=xl78 width=186 style='width:140pt'>DIODE-B240AE-13</td>
+  <td class=xl78 width=220 style='width:165pt'>DIODE-B240AE-13</td>
+  <td class=xl78 width=225 style='width:169pt'>DO-214AC</td>
+  <td class=xl78 width=255 style='width:191pt'>&nbsp;</td>
+  <td class=xl78 width=27 style='width:20pt'>x</td>
+  <td class=xl78 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl78 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl78 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl78 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl78 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>IC5</td>
+  <td class=xl66 width=186 style='width:140pt'>SMSP-BUCK-AP5100</td>
+  <td class=xl66 width=220 style='width:165pt'>SMSP-BUCK-AP5100</td>
+  <td class=xl66 width=225 style='width:169pt'>SOT23-6</td>
+  <td class=xl66 width=255 style='width:191pt'></td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>J1</td>
+  <td class=xl66 width=186 style='width:140pt'></td>
+  <td class=xl66 width=220 style='width:165pt'>MA03-1</td>
+  <td class=xl66 width=225 style='width:169pt'>MA03-1</td>
+  <td class=xl66 width=255 style='width:191pt'>PIN HEADER</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'>unknown</td>
+  <td class=xl66 width=88 style='width:66pt'>unknown</td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>J2</td>
+  <td class=xl66 width=186 style='width:140pt'></td>
+  <td class=xl66 width=220 style='width:165pt'>MA12-1</td>
+  <td class=xl66 width=225 style='width:169pt'>MA12-1</td>
+  <td class=xl66 width=255 style='width:191pt'>PIN HEADER</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'>unknown</td>
+  <td class=xl66 width=88 style='width:66pt'>unknown</td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>J3</td>
+  <td class=xl66 width=186 style='width:140pt'></td>
+  <td class=xl66 width=220 style='width:165pt'>MA12-1</td>
+  <td class=xl66 width=225 style='width:169pt'>MA12-1</td>
+  <td class=xl66 width=255 style='width:191pt'>PIN HEADER</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'>unknown</td>
+  <td class=xl66 width=88 style='width:66pt'>unknown</td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>J4</td>
+  <td class=xl66 width=186 style='width:140pt'></td>
+  <td class=xl66 width=220 style='width:165pt'>MA06-1</td>
+  <td class=xl66 width=225 style='width:169pt'>MA06-1</td>
+  <td class=xl66 width=255 style='width:191pt'>PIN HEADER</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'>unknown</td>
+  <td class=xl66 width=88 style='width:66pt'>unknown</td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>JP1</td>
+  <td class=xl66 width=186 style='width:140pt'>USBUSB-MICROB-SLOT-HOLE</td>
+  <td class=xl66 width=220 style='width:165pt'>USBUSB-MICROB-SLOT-HOLE</td>
+  <td class=xl66 width=225 style='width:169pt'>USB-MICROB-SLOT-HOLE</td>
+  <td class=xl66 width=255 style='width:191pt'></td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>L2</td>
+  <td class=xl66 width=186 style='width:140pt'>IND-CIGW252010GL4R7MNE</td>
+  <td class=xl66 width=220 style='width:165pt'>IND-CIGW252010GL4R7MNE</td>
+  <td class=xl66 width=225 style='width:169pt'>L2520</td>
+  <td class=xl66 width=255 style='width:191pt'></td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R1</td>
+  <td class=xl66 width=186 style='width:140pt'>22Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R2</td>
+  <td class=xl66 width=186 style='width:140pt'>22Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R3</td>
+  <td class=xl66 width=186 style='width:140pt'>10k</td>
+  <td class=xl66 width=220 style='width:165pt'>R-US_R0603</td>
+  <td class=xl66 width=225 style='width:169pt'>R0603</td>
+  <td class=xl66 width=255 style='width:191pt'>RESISTOR, American symbol</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'>R</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R4</td>
+  <td class=xl66 width=186 style='width:140pt'>100Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R5</td>
+  <td class=xl66 width=186 style='width:140pt'>100Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R6</td>
+  <td class=xl66 width=186 style='width:140pt'>470Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R7</td>
+  <td class=xl66 width=186 style='width:140pt'>100Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R8</td>
+  <td class=xl66 width=186 style='width:140pt'>330Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R9</td>
+  <td class=xl66 width=186 style='width:140pt'>10kΩ</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R10</td>
+  <td class=xl66 width=186 style='width:140pt'>100Ω</td>
+  <td class=xl66 width=220 style='width:165pt'>RESISTOR0805-RES</td>
+  <td class=xl66 align=right width=225 style='width:169pt'>805</td>
+  <td class=xl66 width=255 style='width:191pt'>Resistor</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R47</td>
+  <td class=xl66 width=186 style='width:140pt'>49k9</td>
+  <td class=xl66 width=220 style='width:165pt'>R-US_R0603</td>
+  <td class=xl66 width=225 style='width:169pt'>R0603</td>
+  <td class=xl66 width=255 style='width:191pt'>RESISTOR, American symbol</td>
+  <td class=xl66 width=27 style='width:20pt'>X</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'>R</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R48</td>
+  <td class=xl66 width=186 style='width:140pt'>49k9</td>
+  <td class=xl66 width=220 style='width:165pt'>R-US_R0603</td>
+  <td class=xl66 width=225 style='width:169pt'>R0603</td>
+  <td class=xl66 width=255 style='width:191pt'>RESISTOR, American symbol</td>
+  <td class=xl66 width=27 style='width:20pt'>X</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'>R</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>R49</td>
+  <td class=xl66 width=186 style='width:140pt'>16k2</td>
+  <td class=xl66 width=220 style='width:165pt'>R-US_R0603</td>
+  <td class=xl66 width=225 style='width:169pt'>R0603</td>
+  <td class=xl66 width=255 style='width:191pt'>RESISTOR, American symbol</td>
+  <td class=xl66 width=27 style='width:20pt'>X</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'>R</td>
+ </tr>
+ <tr class=xl81 height=20 style='height:15.0pt'>
+  <td height=20 class=xl80 width=32 style='height:15.0pt;width:24pt'>S1</td>
+  <td class=xl80 width=186 style='width:140pt'>TL3305AF160QG</td>
+  <td class=xl80 width=220 style='width:165pt'>SWITCH-MOMENTARY-4.5MX4.5M</td>
+  <td class=xl80 width=225 style='width:169pt'>TACTILE_SWITCH_SMD_4.5X4.5MM</td>
+  <td class=xl80 width=255 style='width:191pt'>&nbsp;</td>
+  <td class=xl80 width=27 style='width:20pt'>x</td>
+  <td class=xl80 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl80 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl80 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl80 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl80 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl81 height=20 style='height:15.0pt'>
+  <td height=20 class=xl80 width=32 style='height:15.0pt;width:24pt'>S2</td>
+  <td class=xl80 width=186 style='width:140pt'>TL3305AF160QG</td>
+  <td class=xl80 width=220 style='width:165pt'>SWITCH-MOMENTARY-4.5MX4.5M</td>
+  <td class=xl80 width=225 style='width:169pt'>TACTILE_SWITCH_SMD_4.5X4.5MM</td>
+  <td class=xl80 width=255 style='width:191pt'>&nbsp;</td>
+  <td class=xl80 width=27 style='width:20pt'>x</td>
+  <td class=xl80 width=38 style='width:29pt'>&nbsp;</td>
+  <td class=xl80 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl80 width=88 style='width:66pt'>&nbsp;</td>
+  <td class=xl80 width=70 style='width:53pt'>&nbsp;</td>
+  <td class=xl80 width=83 style='width:62pt'>&nbsp;</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>U$1</td>
+  <td class=xl66 width=186 style='width:140pt'>LOGO</td>
+  <td class=xl66 width=220 style='width:165pt'>LOGO</td>
+  <td class=xl66 width=225 style='width:169pt'>LOGO</td>
+  <td class=xl66 width=255 style='width:191pt'></td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl66 width=32 style='height:15.0pt;width:24pt'>UC1</td>
+  <td class=xl66 width=186 style='width:140pt'>P1</td>
+  <td class=xl66 width=220 style='width:165pt'>P1</td>
+  <td class=xl66 width=225 style='width:169pt'>WM-N-BM-14</td>
+  <td class=xl66 width=255 style='width:191pt'>Particle P1 module (WiFi with
+  antenna)</td>
+  <td class=xl66 width=27 style='width:20pt'>x</td>
+  <td class=xl66 width=38 style='width:29pt'></td>
+  <td class=xl66 width=85 style='width:64pt'></td>
+  <td class=xl66 width=88 style='width:66pt'></td>
+  <td class=xl66 width=70 style='width:53pt'></td>
+  <td class=xl66 width=83 style='width:62pt'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=32 style='width:24pt'></td>
+  <td width=186 style='width:140pt'></td>
+  <td width=220 style='width:165pt'></td>
+  <td width=225 style='width:169pt'></td>
+  <td width=255 style='width:191pt'></td>
+  <td width=27 style='width:20pt'></td>
+  <td width=38 style='width:29pt'></td>
+  <td width=85 style='width:64pt'></td>
+  <td width=88 style='width:66pt'></td>
+  <td width=70 style='width:53pt'></td>
+  <td width=83 style='width:62pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
